@@ -1,4 +1,4 @@
-# `vmwa`re and `ubuntu`
+# `vmware` and `ubuntu`
 
 [TOC]
 
