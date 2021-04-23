@@ -1,6 +1,6 @@
-# `vmware` and `ubuntu`
+<h1 align = "center">vmware and ubuntu</h1>
 
-[TOC]
+------
 
 
 
@@ -36,17 +36,17 @@
 
 ##### 软件推荐：
 
-1、`linux`下的[VisualStudio](https://visualstudio.microsoft.com/zh-hans/)---------------[MonoDevelop](https://www.monodevelop.com/)
+1、`linux`下的`C#`环境---------------[Mono](https://www.mono-project.com/)
 
-> 在安装这个`IDE` 安装之前，需要安装[Mono](https://www.mono-project.com/)(环境)
+> 1、登陆官方网站，选择需要的版本进行下载。
 >
-> 具体的安装方法就在`Mono` 的官网(下面MonoDevelop的🔗)
+> 2、底下一般我会安装`jetbrains` 的`Rider` (***五星推荐***)
 
 
 
 
 
-2、linux下最好的pdf-----------[Okular](https://okular.kde.org/)
+2、`linux`下最好的`pdf`-----------[Okular](https://okular.kde.org/)
 
 ```shell
 sudo apt install okular
@@ -60,13 +60,15 @@ sudo apt install okular
 
 3、最好的`javaIDE` ------------[IDEA](https://www.jetbrains.com/idea/)
 
-> 1、安装java的运行环境
+> 1、安装`java`的运行环境
 >
 > ```shell
 > sudo apt install openjdk-8-jdk
 > ```
 >
 > 2、安装`idea` 
+
+
 
 
 
@@ -86,6 +88,15 @@ sudo apt-get update
 # install typora
 sudo apt-get install typora
 ```
+
+
+
+5、流行的`IDE` 全家桶----------------------[jetbrains](https://www.jetbrains.com/)
+
+> 登陆官方网站，选择需要的版本进行下载。
+
+
+
 
 
 
